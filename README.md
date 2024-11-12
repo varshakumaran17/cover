@@ -2,33 +2,34 @@
 ## Date: 12-11-2024
 
 ## AIM:
-To design a book front cover page using HTML and CSS.
+To design a web application for an inteactive image gallery with minimum five images.
 
 ## DESIGN STEPS:
 
 ### Step 1:
-Create a Django Admin project.
+Clone the github repository and create Django admin interface.
+
 
 ### Step 2:
-Create an app in the Django interface.
+Change settings.py file to allow request from all hosts.
+
 
 ### Step 3:
-Create a folder named 'static' in the app folder.
+Use CSS for positioning and styling.
+
 
 ### Step 4:
-Create a new HTML file in the static folder.
+Write JavaScript program for implementing interactivity.
+
 
 ### Step 5:
-Write the HTML code with relevant CSS properties.
+Validate the HTML and CSS code.
+
 
 ### Step 6:
-Choose the appropriate style and color scheme.
+Publish the website in the given URL.
 
-### Step 7:
-Insert the images in their appropriate places.
 
-### Step 8:
-Publish the website in the LocalHost.
 
 ## PROGRAM:
 ## html
