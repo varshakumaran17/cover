@@ -1,4 +1,4 @@
-# Ex.05 Book Front Cover Page Design
+# Ex.07 Interactive Image Gallery
 ## Date: 12-11-2024
 
 ## AIM:
